@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neetu </h1>
-<h3 align="center">An aspiring Full stack web developer with knowledge in software engineering practices such as coding, testing, code debugging, etc. Strong ability to communicate with clients and ability to express ideas clearly and concisely.</h3>
+<h1 align="center">Full-stack Web Developer</h1>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
