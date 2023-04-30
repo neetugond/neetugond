@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🤝 Here is my Portfolio <a href="https://my-porfolio-neetugond.vercel.app/" target="blank"><img align="center" src="https://icon-library.com/images/icon-portfolio/icon-portfolio-16.jpg" alt="neetugond" height="20" width="30" /></a>
+- 🤝 Here is my Portfolio <a href="https://my-porfolio-neetugond.vercel.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/291476/briefcase-portfolio.svg" alt="neetugond" height="20" width="30" /></a>
 
 - 📫 How to reach me **ngond92@gmail.com**
 
